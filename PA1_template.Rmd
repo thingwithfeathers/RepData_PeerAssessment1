@@ -1,5 +1,5 @@
 ###Make a time series plot of the five-minute interval (x-axis) and the average number of steps taken, averaged across all days.
-####I will use ggplot2() instead of plot() because ggplot2() works more easily with tapply().
+####I will now use ggplot2() instead of plot() because ggplot2() works more easily with tapply().
 
 ```{r template4, echo=TRUE}
 install.packages("ggplot2", repos = "http://cran.us.r-project.org")
